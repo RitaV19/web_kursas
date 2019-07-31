@@ -1,0 +1,77 @@
+
+
+
+	.container {
+  		position: relative;
+  		text-align: center;
+  	  }
+
+
+
+	ul{
+		display: flex;
+		list-style-type: none;
+		font-family:monospace;
+		font-size: 14px;
+		padding: 0;
+		margin: 0;
+		text-align: center;
+
+		}
+
+.nav{
+	display: block;
+
+	}
+
+	li{
+		text-transform: uppercase;
+		letter-spacing: 2px;
+		padding: 10px;
+		display: inline-block;
+	}
+
+.hr{
+	border: 2px solid;
+
+	}
+
+
+.hh{
+	border: 2px solid;
+	}
+
+.pp{
+	margin: 20px;
+	font-family:monospace;
+	}
+
+	.pp1{
+		display: inline;
+		align-content: center;
+
+	}
+
+
+
+	li a{
+		text-decoration: none;
+		display: block;}
+	li:{
+		color: black;
+		}
+
+
+
+		a:link{
+			color: red;
+		}
+
+.imm{
+	margin-bottom: 15px;
+	}
+
+
+
+
+

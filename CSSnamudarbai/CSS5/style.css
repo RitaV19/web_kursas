@@ -1,0 +1,17 @@
+.button{
+	width: 50px;
+	height: 30px;
+	border-radius: 3px;
+	color: red;
+	font-size: 12pt;
+}
+
+
+.button5{
+	width: 50px;
+	height: 30px;
+	border-radius: 3px;
+	color: red;
+	font-size: 12pt;
+	border-style: inset;
+}

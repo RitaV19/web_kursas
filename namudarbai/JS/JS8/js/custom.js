@@ -9,5 +9,6 @@ function duokManSavaitesDienaPagalSkaiciu(index){
 		"Sestadienis",
 	];
 
+
 		document.write(savaitesDienos[5])
 	}
